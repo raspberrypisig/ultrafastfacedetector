@@ -2,7 +2,7 @@
 
 ### Install
 ```
-curl https://github.com/raspberrypisig/ultrafastfacedetector/raw/master/install.sh | bash
+curl https://github.com/raspberrypisig/ultrafastfacedetector/raw/master/install.sh | bash -
 ```
 
 ### Run
