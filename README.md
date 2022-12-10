@@ -1,5 +1,17 @@
 ## Ultra Fast Face Detector
 
+### Install
+```
+curl https://github.com/raspberrypisig/ultrafastfacedetector/raw/master/install.sh | bash
+```
+
+### Run
+```
+cd ultrafastfacedetector
+python3 main.py
+```
+
+
 ### Install OpenCV
 
 Installed OpenCV version 4.6.0 on Raspberry Pi 4 (Raspbian 64-bit OS) using instructions here 
